@@ -9,4 +9,4 @@ git clone https://github.com/dayeon29/test_iot.git (전체)
 git clone https://github.com/dayeon29/test_iot.git. (현재 파일만)
 
 git fetch (버전 맞추기) 
-git pull (local에 업로드)
+git pull (local에 업로드)..
