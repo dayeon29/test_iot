@@ -1,4 +1,5 @@
 5주차 수업내용
+git add ~
 git commit -m ""
 업로드
 git remote add origin https://github.com/dayeon29/test_iot.git
