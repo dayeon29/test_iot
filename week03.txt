@@ -1,0 +1,21 @@
+3주차 수업내용
+깃 기초 명령어
+- git init
+- git status
+- git add "파일명 또는 ."
+- git commit -m "메세지"
+현재 컴퓨터에서 첫 번째 커밋 시도 시
+Please tell me who you are 메세지 보면
+git config --global user.name "아이디"
+git config --global user.email "아이디@이메일사이트"
+- git log
+- git checkout 해시코드7자리
+- git checkout -
+- git branch -M main
+
+리눅스 기초 명령어
+- touch 파일명
+- ls
+- ls -a
+- pwd
+- cat 파일명

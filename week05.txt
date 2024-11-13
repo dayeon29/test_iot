@@ -1,0 +1,10 @@
+5주차 수업내용
+깃 기초 명령어
+- git remote add origin https://github.com/깃아이디/리포지토리이름.git
+- git config --list
+- git push -u origin main
+- git clone https://github.com/inhadeepblue/test.git
+- git clone https://github.com/inhadeepblue/test.git .
+
+깃 리눅스 명령어
+- cd ..
