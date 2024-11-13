@@ -1,4 +1,3 @@
-counts = 0
 is_prime = True
 number = int(input("Input number : "))
 
