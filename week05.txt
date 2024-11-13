@@ -8,3 +8,18 @@
 
 깃 리눅스 명령어
 - cd ..
+
+
+//
+5주차 수업내용
+git add ~
+git commit -m ""
+업로드
+git remote add origin https://github.com/dayeon29/test_iot.git
+git push (-u origin main)
+복제
+git clone https://github.com/dayeon29/test_iot.git (전체)
+git clone https://github.com/dayeon29/test_iot.git. (현재 파일만)
+
+git fetch (버전 맞추기) 
+git pull (local에 업로드)..
