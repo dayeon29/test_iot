@@ -1,0 +1,4 @@
+12주차 수업내용
+-branch
+-git log option(--oneline, --graph, --all)
+git switch branch명
